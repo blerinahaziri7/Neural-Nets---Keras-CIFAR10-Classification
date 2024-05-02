@@ -1,1 +1,1 @@
-# Neural-Nets---Keras-CIFAR10-Classification
+# Neural Nets Keras CIFAR10-Classification
